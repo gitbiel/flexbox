@@ -1,3 +1,12 @@
+div{
+    display: flex;
+    transition: 1s;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    height: 99vh;
+    flex-direction: column-reverse;
+}
+
 div div{
     width: 80px;
     height: 80px;
